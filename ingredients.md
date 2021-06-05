@@ -1,0 +1,1 @@
+ildlibatter,carrot,peas,potato,onion,tomato,oil,salt,curry,corianderleaves
